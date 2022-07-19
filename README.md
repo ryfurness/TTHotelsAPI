@@ -1,3 +1,4 @@
+
 # TT Hotels API
 Here is a hotel information API where you can search for a Hotel's name or location etcand it will return some basic information about them.
 
@@ -19,6 +20,4 @@ Still learning
 ## Examples:
 
 "http://tthotels.herokuapp.com/api/hilton"
-
-
 
