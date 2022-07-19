@@ -1,0 +1,11 @@
+{
+  "name": "tthotels",
+  "version": "1.0.0",
+  "description": "API to return hotel information from Trinidad and Tobago",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "R Allard",
+  "license": "MIT"
+}
